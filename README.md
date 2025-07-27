@@ -1,4 +1,4 @@
-# The problem of planning n types of plants, maximizing profit while being subjected to m constraints maybe cost limit, growing time... This can be modeled using standard Linear Program 
+# The problem of planning n types of plants, maximizing profit while being subjected to m constraints maybe cost limit, growing time..., an issue confronting farming in Viet Nam. This can be modeled using standard Linear Program 
 Solve the LP problem with Simplex method under the Tabular form
 
          max f(x) = C[1]*X[1] + C[2]*X[2] +  . . . + C[n]*X[n]
