@@ -67,6 +67,8 @@ optimal_val, x=simplex(c,A,b)
 print(n)
 for i in range(n):
     print(x[i], end=' ')
+def add(x,y):
+    return x+y
     
     
         
